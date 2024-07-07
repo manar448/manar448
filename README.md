@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter and machine learning**
 
-- 📫 How to reach me **malakismail706@gmail.com**
+- 📫 How to reach me **manaralaa962@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
