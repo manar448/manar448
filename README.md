@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manar Alaa</h1>
-<h3 align="center">A passionate mobile developer from Egypt</h3>
+<h3 align="center">A passionate data analyst from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manar448&label=Profile%20views&color=0e75b6&style=flat" alt="manar448" /> </p>
 
-- 🌱 I’m currently learning **Flutter and machine learning**
+- 🌱 I’m currently learning **Data Analysis**
 
 - 📫 How to reach me **manaralaa962@gmail.com**
 
